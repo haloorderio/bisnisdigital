@@ -10,7 +10,7 @@ tags: [kreatif, karir]
 
 Beberapa tahun terakhir, Content Creator menjadi profesi yang dikejar sebagian orang. Bayangannya simpel: bikin konten, viral, banyak duit. Tapi faktanya nggak segampang itu, *Ferguso!*
 
-Bahkan ada yang bertanya-tanya: [**Bagaimana Cara Menjadi Content Creator yang Berpenghasilan?**](https://bisnisdigital.orderio.id/2023-01-31-bagaimana-cara-menjadi-content-creator/)
+Bahkan ada yang bertanya-tanya: [**Bagaimana Cara Menjadi Content Creator yang Berpenghasilan?**](https://bisnisdigital.orderio.id/bagaimana-cara-menjadi-content-creator/)
 
 Biar nggak salah paham, yuk kita bedah dulu, yang dimaksud dengan Content Creator itu apa, sih?!
 
@@ -32,7 +32,7 @@ Memang nggak bisa dipungkiri, **perhatian konsumen menjadi rebutan Content Creat
 
 1. **Tentu saja niat atau motivasi**
     
-    ![https://images.unsplash.com/photo-1488085061387-422e29b40080?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb]({{ site.baseurl }}/assets/img/photo-1488085061387-422e29b40080.jpeg){: .mx-auto.d-block :}
+    ![https://images.unsplash.com/photo-1488085061387-422e29b40080?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb]({{ site.baseurl }}/images/photo-1488085061387-422e29b40080.jpeg){: .mx-auto.d-block :}
     
     Serangan malas dan serangan bosan bisa datang kapan saja. Bagaimanapun juga niat mempengaruhi **konsistensi**. Tanpa niat yang kuat, kamu nggak akan bertahan lama untuk bikin konten.
     
@@ -143,6 +143,6 @@ Kamu nggak perlu khawatir lagi karena tingginya _traffic_ ke website atau landin
 
 Kalo kamu serius mau jadi Content Creator yang menghasilkan, ikuti [**Kelas Content Creator: Belajar dari Nol hingga Profesional dengan klik di sini**](https://habiskerja.com/kelas-content-creator/?ref=muhnurulhakim&campaign=KelasContentCreator).
 
-Sudah siap jadi [**Content Creator?**](https://bisnisdigital.orderio.id/2023-01-31-bagaimana-cara-menjadi-content-creator/)
+Sudah siap jadi [**Content Creator?**](https://bisnisdigital.orderio.id/bagaimana-cara-menjadi-content-creator/)
 
 Selamat berkarya, teman!
